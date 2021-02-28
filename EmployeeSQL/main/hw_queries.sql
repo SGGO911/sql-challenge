@@ -134,3 +134,11 @@ GROUP BY last_name
 ORDER BY COUNT(last_name) desc, last_name asc
 
 
+-- BONUS Title
+
+SELECT t.title, s.salary 
+FROM titles t 
+INNER JOIN employees e
+ON t.title_id = e.emp_title_id
+JOIN salaries s
+ON s.emp_no = e.emp_no 
