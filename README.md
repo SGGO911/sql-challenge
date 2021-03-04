@@ -84,7 +84,12 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 
 Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
 
-## Submission
+## Submission Files Description and index of Repository
+
+
+•	EmployeeSQL (Folder): https://github.com/SGGO911/sql-challenge/tree/master/EmployeeSQL
+  
+   •	main (Subfolder):  https://github.com/SGGO911/sql-challenge/tree/master/EmployeeSQL/main
 
 * Create an image file of your ERD.
 
@@ -97,28 +102,9 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 * Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
 
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
+*
 
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
-
-3.	Files Description and index of Repository
-With this project, there are six main Jupyter notebooks regarding the data exploration and one for visualizations.
-•	Government (Folder):
-•	Gov: jupyter notebook used to clean and merge original datasets from ave_Happiness and DataBase_of Political_Institutions
-•	Resources (Folder)
-	Database_of_Political_Institutions_2017.csv  - Original Dataset from the World Bank
-	cleaned_gov_file.csv Cleaned Version of the DPI
-	merge_happiness_gov.csv   file containing records that are in both the happiness and the DPI
-
-
-•	Unemployment (Folder):
-•	Unemployment_Data - Cleaning and Initial Analysis : jupyter notebook used to clean original dataset from The World Economic Outlook (WEO) Database and merge resulting data with the unemployment dataset
-•	Unemployment_Visuals: jupyter notebook used to check for outliers and create visuals for trends within and correlations between happiness and unemployment
-•	Resources (Folder):
-•	Unemployment_raw.csv - original dataset from The World Economic Outlook (WEO) Database
-•	happiness_unemployment_summary.csv - file containing records that are in both the happiness and unemployment datasets; only contains 'Country', 'Avg. Happiness', and 'Avg. Unemployment Rate' columns.
-•	happiness_unemployment_yearly.csv - file containing records that are in both the happiness and unemployment datasets
-•	unemployment_complete_df.csv - cleaned version of the unemployment dataset
-![image](https://user-images.githubusercontent.com/76135808/109408553-cbe81680-7958-11eb-9215-37396182f7ae.png)
 
